@@ -1,0 +1,187 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.Test endpoint GET (operacion_simple)": 148,
+      "vusers.created": 300,
+      "http.requests": 300,
+      "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 148,
+      "errors.ECONNREFUSED": 300,
+      "vusers.failed": 300,
+      "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 152,
+      "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 152
+    },
+    "rates": {
+      "http.request_rate": 5
+    },
+    "firstCounterAt": 1774715181321,
+    "lastCounterAt": 1774715240997,
+    "firstMetricAt": 1774715181321,
+    "lastMetricAt": 1774715240997,
+    "period": 1774715240000,
+    "summaries": {},
+    "histograms": {}
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.Test endpoint GET (operacion_simple)": 21,
+        "vusers.created": 42,
+        "http.requests": 42,
+        "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 21,
+        "errors.ECONNREFUSED": 42,
+        "vusers.failed": 42,
+        "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 21,
+        "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 21
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1774715181321,
+      "lastCounterAt": 1774715189638,
+      "firstMetricAt": 1774715181321,
+      "lastMetricAt": 1774715189638,
+      "period": "1774715180000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 24,
+        "vusers.created": 53,
+        "http.requests": 53,
+        "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 24,
+        "errors.ECONNREFUSED": 53,
+        "vusers.failed": 53,
+        "vusers.created_by_name.Test endpoint GET (operacion_simple)": 29,
+        "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 29
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1774715190035,
+      "lastCounterAt": 1774715199956,
+      "firstMetricAt": 1774715190035,
+      "lastMetricAt": 1774715199956,
+      "period": "1774715190000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Test endpoint GET (operacion_simple)": 25,
+        "vusers.created": 50,
+        "http.requests": 50,
+        "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 25,
+        "errors.ECONNREFUSED": 50,
+        "vusers.failed": 50,
+        "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 25,
+        "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 25
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1774715200370,
+      "lastCounterAt": 1774715209958,
+      "firstMetricAt": 1774715200370,
+      "lastMetricAt": 1774715209958,
+      "period": "1774715200000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Test endpoint GET (operacion_simple)": 27,
+        "vusers.created": 50,
+        "http.requests": 50,
+        "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 27,
+        "errors.ECONNREFUSED": 50,
+        "vusers.failed": 50,
+        "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 23,
+        "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 23
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1774715210315,
+      "lastCounterAt": 1774715219967,
+      "firstMetricAt": 1774715210315,
+      "lastMetricAt": 1774715219967,
+      "period": "1774715210000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Test endpoint GET (operacion_simple)": 19,
+        "vusers.created": 49,
+        "http.requests": 48,
+        "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 19,
+        "errors.ECONNREFUSED": 48,
+        "vusers.failed": 48,
+        "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 30,
+        "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 29
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1774715220313,
+      "lastCounterAt": 1774715229995,
+      "firstMetricAt": 1774715220313,
+      "lastMetricAt": 1774715229995,
+      "period": "1774715220000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Test endpoint GET (operacion_simple)": 23,
+        "vusers.created": 51,
+        "http.requests": 51,
+        "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 23,
+        "errors.ECONNREFUSED": 51,
+        "vusers.failed": 51,
+        "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 28,
+        "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 28
+      },
+      "rates": {
+        "http.request_rate": 5
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1774715230005,
+      "lastCounterAt": 1774715239999,
+      "firstMetricAt": 1774715230005,
+      "lastMetricAt": 1774715239999,
+      "period": "1774715230000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.Test endpoint GET (operacion_simple)": 4,
+        "vusers.created": 5,
+        "http.requests": 6,
+        "plugins.metrics-by-endpoint./operacion_simple.errors.ECONNREFUSED": 4,
+        "errors.ECONNREFUSED": 6,
+        "vusers.failed": 6,
+        "vusers.created_by_name.Test endpoint GET (operacion_compleja)": 1,
+        "plugins.metrics-by-endpoint./operacion_compleja.errors.ECONNREFUSED": 2
+      },
+      "rates": {
+        "http.request_rate": 6
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1774715240001,
+      "lastCounterAt": 1774715240997,
+      "firstMetricAt": 1774715240001,
+      "lastMetricAt": 1774715240997,
+      "period": "1774715240000",
+      "summaries": {},
+      "histograms": {}
+    }
+  ]
+}
