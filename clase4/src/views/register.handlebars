@@ -1,0 +1,29 @@
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-4 offset-md-4">
+            <h1 class="fw-bold">Registrar Usuario</h1>
+            <form>
+                <div class="mb-3">
+                    <label for="nombre" class="form-label fw-bold">Nombre</label>
+                    <input type="text" class="form-control" id="nombre">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label fw-bold">Email</label>
+                    <input type="text" class="form-control" id="email">
+                </div>
+                <div class="mb-3">
+                    <label for="edad" class="form-label fw-bold">Edad</label>
+                    <input type="text" class="form-control" id="edad">
+                </div>
+                <button type="button" class="btn btn-primary" onclick="createUser()">Enviar</button>
+            </form>
+        </div>
+    </div>
+    <div class="row my-5">
+        <div class="col-md-4 offset-md-4">
+            <div id="contenido"></div>
+        </div>
+    </div>
+</div>
+
+<script src="./js/registrar.js"></script>
